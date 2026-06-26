@@ -4,7 +4,7 @@
 
  <img src="assets/screenshots/main.png" width="140"/>
 
-# Cal AI
+# Food AI
 
 **AI-Powered Calorie Tracker for Android & iOS**
 
@@ -25,7 +25,7 @@ Track what you eat. Understand your nutrition. Powered by AI.
 
 ## Overview
 
-Cal AI is a Flutter mobile app that uses artificial intelligence to make calorie tracking effortless. Photograph your meal, and Cal AI instantly estimates nutritional information — no manual logging required.
+Food AI is a Flutter mobile app that uses artificial intelligence to make calorie tracking effortless. Photograph your meal, and Cal AI instantly estimates nutritional information — no manual logging required.
 
 ---
 
@@ -96,7 +96,7 @@ Cal AI is a Flutter mobile app that uses artificial intelligence to make calorie
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/junaidjamel/cal_scanner
+git clone https://github.com/azar99ahemad/food-ai
 ```
 
 **2. Install dependencies**
