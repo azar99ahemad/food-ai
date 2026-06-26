@@ -159,19 +159,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Author
 
-**Junaid Jamel**
-
-- Email: junaidsupercoder@gmail.com
-- LinkedIn: [linkedin.com/in/junaid-jamel](https://www.linkedin.com/in/junaid-jamel/)
-  
-- If you liked the repo then kindly support it by giving it a star ⭐!
-
-
-
----
-
-<div align="center">
-<sub>Built with Flutter &mdash; Cal AI &copy; Junaid Jamel</sub>
-</div>
