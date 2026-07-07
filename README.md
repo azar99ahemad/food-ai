@@ -62,7 +62,7 @@ Food AI is a Flutter mobile app that uses artificial intelligence to make calori
 
 | Feature                     | Description                                                                                 |
 | --------------------------- | ------------------------------------------------------------------------------------------- |
-| **AI Meal Recognition**     | Snap a photo of your food — Cal AI identifies the item and estimates calories automatically |
+| **AI Meal Recognition**     | Snap a photo of your food — Food AI identifies the item and estimates calories automatically |
 | **Daily Calorie Dashboard** | Clean summary of your daily intake vs your personal calorie goal                            |
 | **Macro Breakdown**         | Track proteins, carbohydrates, and fats alongside total calories                            |
 | **Meal History Log**        | Full history of logged meals with timestamps and nutritional details                        |
